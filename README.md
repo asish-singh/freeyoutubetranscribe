@@ -8,7 +8,7 @@
 
 [freeyoutubetranscribe.com](https://freeyoutubetranscribe.com) turns any YouTube video into a clean, searchable transcript in seconds: clickable timestamps, chapters, every caption language the video has, and one-click export to TXT, SRT, VTT, or an AI-ready prompt format.
 
-> This is the project's public page. The source code lives in a private repository; all rights reserved. If you want to talk about the project, [get in touch](https://freeyoutubetranscribe.com/contact).
+> This is the project's public page. The source code lives in a private repository; all rights reserved. If you want to talk about the project, [get in touch](https://freeyoutubetranscribe.com/contact). Product decisions are documented in [`docs/decisions/`](docs/decisions/), starting with [why it's free forever](docs/decisions/free-forever.md).
 
 ## Why build this
 
