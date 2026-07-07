@@ -54,4 +54,4 @@ Astro, Cloudflare Workers and KV, Tailwind CSS, and an on-device transformer via
 
 ---
 
-**[freeyoutubetranscribe.com](https://freeyoutubetranscribe.com)** — paste a link, read the video.
+**[freeyoutubetranscribe.com](https://freeyoutubetranscribe.com)**: paste a link, read the video.
